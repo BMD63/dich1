@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    margin: auto;
+}
+.pic{
+    background-color: yellow;
+    box-sizing: content-box;
+
+}
+.pic img{
+   /* margin-bottom: -4px; */
+    width: 100%;
+}
